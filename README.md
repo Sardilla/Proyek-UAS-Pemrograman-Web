@@ -1,22 +1,73 @@
-# 🧁 Delicia by Dilla - Toko Kue Online
+# 🧁✨ Delicia by Dilla - Sweet Dreams Come True ✨🧁
 
-[![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
-
-**Sistem Manajemen Toko Kue Online Berbasis Web**
-
-Aplikasi web untuk mengelola toko kue online dengan fitur lengkap untuk admin dan user, dikembangkan menggunakan PHP native dan MySQL.
+<div align="center">
+  <img src="assets/img/logo.png" alt="Delicia Logo" width="150" height="150">
+  
+  [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-ff69b4?style=for-the-badge&logo=php)](https://www.php.net/)
+  [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-ed92b8?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+  [![License](https://img.shields.io/badge/License-Educational-d63384?style=for-the-badge)](LICENSE)
+  
+  **💖 Sistem Manajemen Toko Kue Online yang Manis & Professional 💖**
+  
+  *Aplikasi web e-commerce untuk toko kue dengan tampilan pink aesthetic yang menggemaskan*
+</div>
 
 ---
 
-## 👨‍💻 **Informasi Developer**
+## 🌸 **Meet the Developer** 🌸
 
-- **Nama**: Sardilla
-- **NIM**: 202312071  
-- **Email**: dillasardilla387@gmail.com
-- **Kampus**: Sekolah Tinggi Teknologi Bontang
-- **Mata Kuliah**: Pemrograman Web - Ujian Akhir Semester
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">👩‍💻</td>
+      <td><strong>Nama</strong></td>
+      <td>Sardilla</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><strong>NIM</strong></td>
+      <td>202312071</td>
+    </tr>
+    <tr>
+      <td align="center">💌</td>
+      <td><strong>Email</strong></td>
+      <td>dillasardilla387@gmail.com</td>
+    </tr>
+    <tr>
+      <td align="center">🏫</td>
+      <td><strong>Program Studi</strong></td>
+      <td>Teknik Informatika</td>
+    </tr>
+    <tr>
+      <td align="center">🏛️</td>
+      <td><strong>Institusi</strong></td>
+      <td>Sekolah Tinggi Teknologi Bontang</td>
+    </tr>
+    <tr>
+      <td align="center">📚</td>
+      <td><strong>Proyek</strong></td>
+      <td>Ujian Akhir Semester - Pemrograman Web</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📚 **Dokumentasi Lengkap**
+
+Untuk informasi lebih detail tentang proyek ini, silakan kunjungi dokumentasi lengkap berikut:
+
+### 📖 **Dokumentasi Utama**
+- 🏠 **[Beranda](README.md)** - Dokumentasi utama proyek (halaman ini)
+- 🗄️ **[Database](docs/Database.md)** - Schema database dan struktur tabel
+- 🚀 **[Installation](docs/Installation.md)** - Panduan instalasi lengkap step-by-step
+- 📦 **[Deployment](docs/Deployment.md)** - Panduan deploy ke production server
+- 🎯 **[Usage](docs/Usage.md)** - Panduan penggunaan fitur-fitur aplikasi
+
+### 📋 **Quick Navigation**
+- [👩‍💻 Developer Info](#-meet-the-developer-) | [📖 Deskripsi](#-deskripsi-proyek) | [✨ Fitur](#-fitur-utama) | [🏗️ Arsitektur](#️-arsitektur-sistem)
+- [📁 Struktur](#-struktur-direktori) | [🚀 Instalasi](#-instalasi-dan-setup) | [🖥️ Usage](#️-cara-penggunaan) | [🔒 Security](#-sistem-keamanan)
+- [🎨 Design](#-design-system) | [🐛 Issues](#-known-issues--troubleshooting) | [📞 Support](#-support--contact) | [📄 License](#-license)
 
 ---
 
@@ -65,6 +116,12 @@ Delicia by Dilla adalah aplikasi web e-commerce yang dirancang khusus untuk toko
 - **Fonts**: Google Fonts (Poppins)
 
 ### **Struktur Database**
+
+<div align="center">
+  <img src="docs/erd_diagram.png" alt="ERD Diagram" width="800">
+  <p><em>Entity Relationship Diagram - Delicia by Dilla Database</em></p>
+</div>
+
 ```
 📊 Database: delicia_by_dilla
 ├── users (User dan Admin)
