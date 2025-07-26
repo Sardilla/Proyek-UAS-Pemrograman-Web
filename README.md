@@ -258,6 +258,30 @@ Delicia-by-Dilla/
    - Akses: `http://localhost/Delicia-by-Dilla`
 ---
 
+📹 Demo Video
+🎥 https://youtu.be/Qk6Vt6boOSc?si=eiF28q8BiFKs9Pk4
+
+🌐 Hosting
+Aplikasi dapat diakses melalui:
+🔗 https://sardila.mangaverse.my.id
+
+🔐 Login Aplikasi
+
+**Admin:**
+- Username: `admin`
+- Password: `admin123`
+
+**User Demo:**
+- Username: `dilla`
+- Password: `user123`  
+
+👨‍💻 Dibuat Oleh
+Nama: Sardilla
+NIM: 202312071
+Mata Kuliah: Pemrogramann Web
+Kampus: STITEK Bontang
+Tugas: Proyek UAS - Semester Ganjil 2024/2025
+
 ## 🖥️ **Cara Penggunaan**
 
 ### **Untuk Admin:**
@@ -350,31 +374,6 @@ Delicia-by-Dilla/
 - 🚀 Advanced reporting
 - 🚀 Mobile app API
 - 🚀 Multi-language support
-
-📹 Demo Video
-🎥 https://youtu.be/Qk6Vt6boOSc?si=eiF28q8BiFKs9Pk4
-
-🌐 Hosting
-Aplikasi dapat diakses melalui:
-🔗 https://sardila.mangaverse.my.id
-
-🔐 Login Aplikasi
-
-**Admin:**
-- Username: `admin`
-- Password: `admin123`
-
-**User Demo:**
-- Username: `dilla`
-- Password: `user123`  
-
-👨‍💻 Dibuat Oleh
-Nama: Sardilla
-NIM: 202312071
-Mata Kuliah: Pemrograman Web
-Kampus: STITEK Bontang
-Tugas: Proyek UAS - Semester Ganjil 2024/2025
-
 ---
 
 ## 📞 **Support & Contact**
