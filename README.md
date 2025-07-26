@@ -380,7 +380,7 @@ Proyek ini dibuat untuk keperluan edukasi dalam rangka Ujian Akhir Semester mata
 
 ```
 Educational License
-Copyright (c) 2024 Sardilla - STT Bontang
+Copyright (c) 2025 Sardilla - STITEK Bontang
 Hanya untuk keperluan pembelajaran dan evaluasi akademik.
 ```
 
