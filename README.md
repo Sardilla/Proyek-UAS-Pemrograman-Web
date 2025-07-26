@@ -275,12 +275,12 @@ Aplikasi dapat diakses melalui:
 - Username: `dilla`
 - Password: `user123`  
 
-👨‍💻 Dibuat Oleh
+👩‍💻 Profil Pembuat
 Nama: Sardilla
 NIM: 202312071
-Mata Kuliah: Pemrogramann Web
+Mata Kuliah: Pemrograman Web
 Kampus: STITEK Bontang
-Tugas: Proyek UAS - Semester Ganjil 2024/2025
+Tugas: Proyek UAS Semester Ganjil 2024/2025
 
 ## 🖥️ **Cara Penggunaan**
 
