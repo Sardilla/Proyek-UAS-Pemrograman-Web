@@ -352,12 +352,14 @@ Delicia-by-Dilla/
 - 🚀 Multi-language support
 ---
 📹 Demo Video
-🎥 https://youtu.be/Qk6Vt6boOSc?si=eiF28q8BiFKs9Pk4
+
+-🎥 https://youtu.be/Qk6Vt6boOSc?si=eiF28q8BiFKs9Pk4
 
 ---
 🌐 Hosting
 Aplikasi dapat diakses melalui:
-🔗 https://sardila.mangaverse.my.id
+
+-🔗 https://sardila.mangaverse.my.id
 
 ---
 🔐 Login Aplikasi
