@@ -354,10 +354,12 @@ Delicia-by-Dilla/
 📹 Demo Video
 🎥 https://youtu.be/Qk6Vt6boOSc?si=eiF28q8BiFKs9Pk4
 
+---
 🌐 Hosting
 Aplikasi dapat diakses melalui:
 🔗 https://sardila.mangaverse.my.id
 
+---
 🔐 Login Aplikasi
 
 **Admin:**
@@ -368,6 +370,7 @@ Aplikasi dapat diakses melalui:
 - Username: `dilla`
 - Password: `user123`
 
+---
 👩‍💻 Profil Pembuat
 -👤 Nama: Sardilla
 
